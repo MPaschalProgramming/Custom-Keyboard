@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\bin\Debug\Project02.exe.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\bin\Debug\Project02.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\bin\Debug\Project02.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\obj\Debug\Project02.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\obj\Debug\Project02.frmProject02.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\obj\Debug\Project02.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\obj\Debug\Project02.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\obj\Debug\Project02.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\Project02\Project02\obj\Debug\Project02.pdb
